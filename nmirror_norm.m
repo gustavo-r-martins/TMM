@@ -1,4 +1,4 @@
-function [T,R] = nmirror2(n,d,k)
+function [T,R] = nmirror_norm(n,d,k)
     arguments
         n   % refractive index
         d   % layers distance
